@@ -10,7 +10,7 @@ function Home() {
     <Navbar />
     <div className="home-banner-container">
       <div className="home-bannerImage-container">
-        <img src={BannerBackground} alt="home-bannerImage" />
+        <img src={BannerBackground} alt="imagen para el background numero 12113421" />
       </div>
       <div className="home-text-section">
         <h1 className="primary-heading">
@@ -25,7 +25,7 @@ function Home() {
         </button>
       </div>
       <div className="home-image-section">
-        <img src={BannerImage} alt="home-image" />
+        <img src={BannerImage} alt="imagen para el baner de la home" />
       </div>
     </div>
   </div>
